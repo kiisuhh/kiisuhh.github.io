@@ -1,6 +1,6 @@
 <span id="a">luca</span>:<span id="b">~</span><span id="c">$</span> echo "Hello World!"
 <span id>Hello World!</span>
-<span id="a">a@a</span>:<span id="b">~</span><span id="c">$</span> cat luca.txt<br/><br/>
+<span id="a">luca</span>:<span id="b">~</span><span id="c">$</span> cat luca.txt<br/><br/>
 "<span id="k">Trying Harder!</span>" 
 
 I am Luca, also known as kiisuhh or hiroyukisu. My area of expertise is Bot & Extension developement and Penetration testing. I am looking for opportunities to work on real-world projects and contribute something. My projects include:
